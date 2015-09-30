@@ -8,3 +8,5 @@ This space is used for tracking proposed and current Firefox for iOS and Firefox
 * [Closed issues] (https://github.com/gemmapetrie/firefox-mobile-research/issues?q=is%3Aissue+is%3Aclosed)
 
 If you'd like to discuss Firefox for mobile user research, please get in touch with Gemma. 
+
+For more information on user research at Mozilla, check out the [Mozilla UX Blog] (https://blog.mozilla.org/ux/)!
