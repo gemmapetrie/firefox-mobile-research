@@ -4,7 +4,7 @@
 
 Welcome to the Firefox Mobile Research planning repository!
 
-This space is used for tracking proposed and current Firefox for iOS and Firefox for Android research projects. 
+This space is used for tracking proposed and current [Firefox for iOS] (https://www.mozilla.org/en-US/firefox/ios/) and [Firefox for Android] (https://www.mozilla.org/en-US/firefox/android/) research projects. 
 * [Open issues] (https://github.com/gemmapetrie/firefox-mobile-research/issues)
 * [Closed issues] (https://github.com/gemmapetrie/firefox-mobile-research/issues?q=is%3Aissue+is%3Aclosed)
 
