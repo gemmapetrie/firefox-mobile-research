@@ -1,5 +1,5 @@
 # firefox-mobile-research
-Firefox Mobile Research
+## Firefox Mobile Research
 
 Welcome to the Firefox Mobile Research planning repository!
 
