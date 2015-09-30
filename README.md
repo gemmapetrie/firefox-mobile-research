@@ -1,8 +1,8 @@
+![Firefox Logo](https://mozorg.cdn.mozilla.net/media/img/styleguide/identity/firefox/usage-standard.dd994d6216e9.png "Firefox Logo")
+
 # Firefox Mobile Research
 
 Welcome to the Firefox Mobile Research planning repository!
-
-![Firefox Logo](https://mozorg.cdn.mozilla.net/media/img/styleguide/identity/firefox/guidelines-logo.7ea045a4e288.png "Firefox Logo")
 
 This space is used for tracking proposed and current Firefox for iOS and Firefox for Android research projects. 
 * [Open issues] (https://github.com/gemmapetrie/firefox-mobile-research/issues)
